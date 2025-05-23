@@ -9,3 +9,4 @@ MBA with Business Analytics
 - 6 years in business English coaching for executives
 
 ### Projects
+- [Bike Rental Demand Analysis](A2 Python Analysis Project Sayuri Tsunakawa.html)
