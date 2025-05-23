@@ -1,4 +1,4 @@
-# Business Analysis
+# Business Analyst
 
 ### Education
 MBA with Business Analytics
